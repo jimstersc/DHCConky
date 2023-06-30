@@ -3,7 +3,7 @@
 # Install Conky-all
 sudo apt update
 sudo apt install conky-all -y
-sudp apt --fix-broken install
+sudp apt --fix-broken install -y
 sudo apt install conky-all -y
 
 # Extract conky.tar.xz
