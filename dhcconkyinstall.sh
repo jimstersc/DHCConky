@@ -14,7 +14,7 @@ cd conky
 
 # Copy conky.conf and conky.sh to /etc/conky/
 sudo cp conky.conf /etc/conky/
-sudo cp conky.sh /etc/conky/
+sudo cp conky.sh /usr/bin/
 
 # Copy conky.desktop to /etc/xdg/autostart/
 sudo cp conky.desktop /etc/xdg/autostart/
